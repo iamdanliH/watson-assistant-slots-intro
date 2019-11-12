@@ -39,6 +39,7 @@ Create the following service and name it `wcsi-conversation-service`:
 
 To find the `WORKSPACE_ID` for Watson Assistant:
 
+* There is no `Workspace ID` as found in 20191112, replace it with `Skill ID`.
 * Go back to the `Skills` tab.
 * Find the card for the workspace you would like to use. Look for `WatsonPizzeria`.
 * Click on the three dots in the upper right-hand corner of the card and select `View API Details`.
